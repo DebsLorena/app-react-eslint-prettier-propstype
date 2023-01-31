@@ -7,9 +7,9 @@
 ### :memo:Tópicos 
 
 
-* **Descrição do teste**
+* **Descrição**
 
-> projeto em branco, apenas configurações eslint, prettier, babel, propstype
+> Projeto em branco, apenas configurações eslint, prettier, babel, propstype
 
 <br> 
 
